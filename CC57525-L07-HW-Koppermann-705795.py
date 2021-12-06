@@ -36,7 +36,7 @@ csv1()
 
 
 #yml
-file = "/Users/koppens/Dropbox/Geschichte/Digital_Humanities/RomanovClass/settlements_copy.csv"
+file = "settlements.csv"
 def converter_tsv_to_yml(file):
     with open(file, "r", encoding="utf8") as f1:
         data = f1.read().strip().split("\n")
@@ -68,7 +68,7 @@ converter_tsv_to_yml(file)
 
 
 #xml
-file = "/Users/koppens/Dropbox/Geschichte/Digital_Humanities/RomanovClass/settlements_copy.csv"
+file = "settlements.csv"
 def converter_tsv_to_xml(file):
 	with open(file, "r", encoding="utf8") as f1:
 		data = f1.read().strip().split("\n")
@@ -99,7 +99,7 @@ converter_tsv_to_xml(file)
 
 
 #json
-file = "/Users/koppens/Dropbox/Geschichte/Digital_Humanities/RomanovClass/settlements_copy.csv"
+file = "settlements.csv"
 def converter_tsv_to_json(file):
     with open(file, "r", encoding="utf8") as f1:
         data = f1.read().strip().split("\n")

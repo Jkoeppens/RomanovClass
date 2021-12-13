@@ -1,0 +1,587 @@
+
+{"settlement_id": "QAHIRA_312E300N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "القاهرة",
+"names_ara_common_other": "القاهرة",
+"names_eng_search": "Qahira, Cairo",
+"names_eng_translit": "al-Qāhiraŧ",
+"names_eng_translit_other": "al-Madīnaŧ al-Qāhiraŧ",
+"region_URI": "Misr_RE",
+"source": "maximromanov",
+"top_type": "metropoles",
+"coordinates": "[31.2357, 30.0444]",
+}
+
+
+{"settlement_id": "IRBIL_440E361N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "إربيل",
+"names_ara_common_other": "إربيل",
+"names_eng_search": "Irbil, Erbil",
+"names_eng_translit": "Irbīl",
+"names_eng_translit_other": "Irbīl",
+"region_URI": "Aqur_RE",
+"source": "maximromanov",
+"top_type": "towns",
+"coordinates": "[44.009085, 36.191231]",
+}
+
+
+{"settlement_id": "DANIYA_001E388N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "دانية",
+"names_ara_common_other": "دانية",
+"names_eng_search": "Daniya, Dénia",
+"names_eng_translit": "Dāniyaŧ",
+"names_eng_translit_other": "Dāniyaŧ",
+"region_URI": "Andalus_RE",
+"source": "maximromanov",
+"top_type": "towns",
+"coordinates": "[0.105056, 38.838799]",
+}
+
+
+{"settlement_id": "WASHQA_003W421N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "وشقة",
+"names_ara_common_other": "وشقة",
+"names_eng_search": "Washqa",
+"names_eng_translit": "Wašqaŧ",
+"names_eng_translit_other": "Wašqaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-0.35371, 42.16109]",
+}
+
+
+{"settlement_id": "WASHQA_003W421N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "وشقة",
+"names_ara_common_other": "وشقة",
+"names_eng_search": "Washqa",
+"names_eng_translit": "Wašqaŧ",
+"names_eng_translit_other": "Wašqaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-0.35371, 42.16109]",
+}
+
+
+{"settlement_id": "BALANSIYYA_004W394N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "بلنسية",
+"names_ara_common_other": "بلنسية",
+"names_eng_search": "Balansiyya",
+"names_eng_translit": "Balansiyyaŧ",
+"names_eng_translit_other": "Balansiyyaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-0.41486, 39.43516]",
+}
+
+
+{"settlement_id": "BALANSIYYA_004W394N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "بلنسية",
+"names_ara_common_other": "بلنسية",
+"names_eng_search": "Balansiyya",
+"names_eng_translit": "Balansiyyaŧ",
+"names_eng_translit_other": "Balansiyyaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-0.41486, 39.43516]",
+}
+
+
+{"settlement_id": "SHAQR_004W391N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "الشقر",
+"names_ara_common_other": "الشقر",
+"names_eng_search": "al-Shaqr",
+"names_eng_translit": "al-Šaqr",
+"names_eng_translit_other": "al-Šaqr",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "villages",
+"coordinates": "[-0.43734, 39.16483]",
+}
+
+
+{"settlement_id": "QANT_004W383N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "قانت",
+"names_ara_common_other": "قانت",
+"names_eng_search": "Qant",
+"names_eng_translit": "Qānt",
+"names_eng_translit_other": "Qānt",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-0.47061, 38.34618]",
+}
+
+
+{"settlement_id": "SHATIBA_005W389N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "شاتبة",
+"names_ara_common_other": "شاتبة",
+"names_eng_search": "Shatiba",
+"names_eng_translit": "Šātibaŧ",
+"names_eng_translit_other": "Šātibaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-0.52276, 38.96551]",
+}
+
+
+{"settlement_id": "SARAQUSA_009W416N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "سرقوسة",
+"names_ara_common_other": "سرقوسة، سرقوسطة",
+"names_eng_search": "Saraqusa, Saraqusta",
+"names_eng_translit": "Saraqūsaŧ",
+"names_eng_translit_other": "Saraqūsaŧ, Saraqūsṭaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-0.9292, 41.63368]",
+}
+
+
+{"settlement_id": "SARAQUSA_009W416N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "سرقوسة",
+"names_ara_common_other": "سرقوسة، سرقوسطة",
+"names_eng_search": "Saraqusa, Saraqusta",
+"names_eng_translit": "Saraqūsaŧ",
+"names_eng_translit_other": "Saraqūsaŧ, Saraqūsṭaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-0.9292, 41.63368]",
+}
+
+
+{"settlement_id": "QARTAJANNA_009W376N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "قرطاجنة",
+"names_ara_common_other": "قرطاجنة",
+"names_eng_search": "Qartajanna",
+"names_eng_translit": "Qarṭāǧannaŧ",
+"names_eng_translit_other": "Qarṭāǧannaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "villages",
+"coordinates": "[-0.98315, 37.6005]",
+}
+
+
+{"settlement_id": "NAHRABRUH_009W417N_W",
+"languages": "['ara', 'eng']",
+"names_ara_common": "نهر أبره",
+"names_ara_common_other": "نهر أبره",
+"names_eng_search": "Nahr Abruh",
+"names_eng_translit": "Nahr Abruh",
+"names_eng_translit_other": "Nahr Abruh",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "waters",
+"coordinates": "[-0.99933, 41.7827]",
+}
+
+
+{"settlement_id": "MURSIYA_011W379N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "مرسية",
+"names_ara_common_other": "مرسية",
+"names_eng_search": "Mursiya",
+"names_eng_translit": "Mursiyaŧ",
+"names_eng_translit_other": "Mursiyaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-1.11443, 37.99945]",
+}
+
+
+{"settlement_id": "TUDMIR_013W379N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "تدمير",
+"names_ara_common_other": "تدمير",
+"names_eng_search": "Tudmir",
+"names_eng_translit": "Tudmīr",
+"names_eng_translit_other": "Tudmīr",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-1.34462, 37.95834]",
+}
+
+
+{"settlement_id": "TUTILA_016W420N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "تطيلة",
+"names_ara_common_other": "تطيلة",
+"names_eng_search": "Tutila",
+"names_eng_translit": "Tuṭīlaŧ",
+"names_eng_translit_other": "Tuṭīlaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-1.62697, 42.04634]",
+}
+
+
+{"settlement_id": "TUTILA_016W420N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "تطيلة",
+"names_ara_common_other": "تطيلة",
+"names_eng_search": "Tutila",
+"names_eng_translit": "Tuṭīlaŧ",
+"names_eng_translit_other": "Tuṭīlaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-1.62697, 42.04634]",
+}
+
+
+{"settlement_id": "LURQA_017W376N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "لرقة",
+"names_ara_common_other": "لرقة",
+"names_eng_search": "Lurqa",
+"names_eng_translit": "Lurqaŧ",
+"names_eng_translit_other": "Lurqaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-1.73128, 37.6532]",
+}
+
+
+{"settlement_id": "MADINASALIM_024W411N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "مدينة سالم",
+"names_ara_common_other": "مدينة سالم",
+"names_eng_search": "Madina Salim",
+"names_eng_translit": "Madīnaŧ Sālim",
+"names_eng_translit_other": "Madīnaŧ Sālim",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-2.41736, 41.13714]",
+}
+
+
+{"settlement_id": "BAJJANA_024W369N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "بجانة",
+"names_ara_common_other": "بجانة",
+"names_eng_search": "Bajjana",
+"names_eng_translit": "Baǧǧānaŧ",
+"names_eng_translit_other": "Baǧǧānaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-2.41826, 36.95657]",
+}
+
+
+{"settlement_id": "BAJJANA_024W369N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "بجانة",
+"names_ara_common_other": "بجانة",
+"names_eng_search": "Bajjana",
+"names_eng_translit": "Baǧǧānaŧ",
+"names_eng_translit_other": "Baǧǧānaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-2.41826, 36.95657]",
+}
+
+
+{"settlement_id": "MARIYYA_025W368N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "المرية",
+"names_ara_common_other": "المرية",
+"names_eng_search": "al-Mariyya",
+"names_eng_translit": "al-Mariyyaŧ",
+"names_eng_translit_other": "al-Mariyyaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-2.50099, 36.86202]",
+}
+
+
+{"settlement_id": "WADIHIJARA_031W406N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "وادي الحجارة",
+"names_ara_common_other": "وادي الحجارة",
+"names_eng_search": "Wadi al-Hijara",
+"names_eng_translit": "Wādī al-Ḥijāraŧ",
+"names_eng_translit_other": "Wādī al-Ḥijāraŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-3.15111, 40.6491]",
+}
+
+
+{"settlement_id": "WADIHIJARA_031W406N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "وادي الحجارة",
+"names_ara_common_other": "وادي الحجارة",
+"names_eng_search": "Wadi al-Hijara",
+"names_eng_translit": "Wādī al-Ḥijāraŧ",
+"names_eng_translit_other": "Wādī al-Ḥijāraŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.15111, 40.6491]",
+}
+
+
+{"settlement_id": "WADIYASH_031W373N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "وادياش",
+"names_ara_common_other": "وادياش",
+"names_eng_search": "Wadiyash",
+"names_eng_translit": "Wādiyāš",
+"names_eng_translit_other": "Wādiyāš",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.16459, 37.33966]",
+}
+
+
+{"settlement_id": "SHAWDHAR_033W378N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "شوذر",
+"names_ara_common_other": "شوذر",
+"names_eng_search": "Shawdhar",
+"names_eng_translit": "Šawḏar",
+"names_eng_translit_other": "Šawḏar",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.34803, 37.87641]",
+}
+
+
+{"settlement_id": "BAYYASA_034W379N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "بياسة",
+"names_ara_common_other": "بياسة",
+"names_eng_search": "Bayyasa",
+"names_eng_translit": "Bayyāsaŧ",
+"names_eng_translit_other": "Bayyāsaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.45773, 37.9998]",
+}
+
+
+{"settlement_id": "GHARNATA_035W372N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "غرناطة",
+"names_ara_common_other": "غرناطة",
+"names_eng_search": "Gharnata",
+"names_eng_translit": "Ġarnāṭaŧ",
+"names_eng_translit_other": "Ġarnāṭaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.5998, 37.20621]",
+}
+
+
+{"settlement_id": "MANTISHA_036W398N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "منتيشة",
+"names_ara_common_other": "منتيشة",
+"names_eng_search": "Mantisha",
+"names_eng_translit": "Mantīšaŧ",
+"names_eng_translit_other": "Mantīšaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.62588, 39.81332]",
+}
+
+
+{"settlement_id": "LIBIRA_036W372N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "لبيرة",
+"names_ara_common_other": "لبيرة، إلبيرة",
+"names_eng_search": "Libira, Ilbira",
+"names_eng_translit": "Libīraŧ",
+"names_eng_translit_other": "Libīraŧ, Ilbīraŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-3.66814, 37.22734]",
+}
+
+
+{"settlement_id": "LIBIRA_036W372N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "لبيرة",
+"names_ara_common_other": "لبيرة، إلبيرة",
+"names_eng_search": "Libira, Ilbira",
+"names_eng_translit": "Libīraŧ",
+"names_eng_translit_other": "Libīraŧ, Ilbīraŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.66814, 37.22734]",
+}
+
+
+{"settlement_id": "QALARABAH_037W388N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "قلعة رباح",
+"names_ara_common_other": "قلعة رباح، قلعة رباط",
+"names_eng_search": "Qala Rabah, Qala Ribat",
+"names_eng_translit": "Qalʿaŧ Rabāḥ",
+"names_eng_translit_other": "Qalʿaŧ Rabāḥ, Qalʿaŧ Ribāṭ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.78324, 38.80312]",
+}
+
+
+{"settlement_id": "JAYYAN_038W377N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "جيان",
+"names_ara_common_other": "جيان",
+"names_eng_search": "Jayyan",
+"names_eng_translit": "Ǧayyān",
+"names_eng_translit_other": "Ǧayyān",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.80302, 37.78977]",
+}
+
+
+{"settlement_id": "QASTALLA_038W379N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "قسطلة",
+"names_ara_common_other": "قسطلة",
+"names_eng_search": "Qastalla",
+"names_eng_translit": "Qasṭallaŧ",
+"names_eng_translit_other": "Qasṭallaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.87676, 37.98847]",
+}
+
+
+{"settlement_id": "ABNASH_039W396N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "أبنش",
+"names_ara_common_other": "أبنش",
+"names_eng_search": "Abnash",
+"names_eng_translit": "Abnaš",
+"names_eng_translit_other": "Abnaš",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.91003, 39.63212]",
+}
+
+
+{"settlement_id": "MALAQUN_039W391N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "ملقون",
+"names_ara_common_other": "ملقون",
+"names_eng_search": "Malaqun",
+"names_eng_translit": "Malaqūn",
+"names_eng_translit_other": "Malaqūn",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.91362, 39.1739]",
+}
+
+
+{"settlement_id": "MUGHAN_039W399N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "مغان",
+"names_ara_common_other": "مغان",
+"names_eng_search": "Mughan",
+"names_eng_translit": "Muġān",
+"names_eng_translit_other": "Muġān",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "villages",
+"coordinates": "[-3.9424, 39.97062]",
+}
+
+
+{"settlement_id": "MARTUSH_039W377N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "مارتوش",
+"names_ara_common_other": "مارتوش",
+"names_eng_search": "Martush",
+"names_eng_translit": "Mārtūš",
+"names_eng_translit_other": "Mārtūš",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-3.98826, 37.74285]",
+}
+
+
+{"settlement_id": "TULAYTILA_040W398N_R",
+"languages": "['ara', 'eng']",
+"names_ara_common": "طليطلة",
+"names_ara_common_other": "طليطلة",
+"names_eng_search": "Tulaytila",
+"names_eng_translit": "Ṭulayṭilaŧ",
+"names_eng_translit_other": "Ṭulayṭilaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "regions",
+"coordinates": "[-4.0521, 39.88926]",
+}
+
+
+{"settlement_id": "TULAYTILA_040W398N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "طليطلة",
+"names_ara_common_other": "طليطلة",
+"names_eng_search": "Tulaytila",
+"names_eng_translit": "Ṭulayṭilaŧ",
+"names_eng_translit_other": "Ṭulayṭilaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-4.0521, 39.88926]",
+}
+
+
+{"settlement_id": "ARJUNA_040W379N_S",
+"languages": "['ara', 'eng']",
+"names_ara_common": "أرجونة",
+"names_ara_common_other": "أرجونة",
+"names_eng_search": "Arjuna",
+"names_eng_translit": "Arǧūnaŧ",
+"names_eng_translit_other": "Arǧūnaŧ",
+"region_URI": "Andalus_RE",
+"source": "cornuData",
+"top_type": "towns",
+"coordinates": "[-4.053, 37.9204]",
+}

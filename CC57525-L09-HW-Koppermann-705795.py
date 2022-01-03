@@ -1,9 +1,10 @@
 import re
 import os
 
-directory = "/Users/koppens/Dropbox/Geschichte/Digital_Humanities/scraping"
+directory = "./Daily_dispach"
+target = "cleanedDispach"
 def read_dir(directory):
-    files = os.listdir(directory) 
+    os.listdir(directory) 
     filessorted=sorted(files)
     for filename in filessorted:
         if filename.startswith("dltext"):
@@ -54,9 +55,9 @@ def read_dir(directory):
                     #input(tempVarFinal)
                     allData.append(tempVarFinal)
 
-                ReallyFinalData = "\n\n".join(allData)
-                with open(f1.replace("dis", "splitdis"), "w", encoding="utf8") as f10:
-                    f10.write(ReallyFinalData)
+    ReallyFinalData = "\n\n".join(allData)
+    with open(f1.replace("dis", "splitdis"), "w", encoding="utf8") as f10:
+		    f10.write(ReallyFinalData)
 
            
 read_dir(directory)
